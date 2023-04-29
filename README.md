@@ -20,7 +20,7 @@ These are the function of this application
 1. Input validation.
 
 ## Link to video demonstration
-[Click Here.](www.google.com)
+[Click Here.](https://youtu.be/y7wpURQZr-E)
 
 ## This app is developed with
 
